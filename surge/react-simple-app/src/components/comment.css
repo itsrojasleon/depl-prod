@@ -1,0 +1,24 @@
+.comment {
+  border: 1px solid #ddd;
+  padding: 6px;
+  border-radius: 6px;
+  margin-bottom: 6px;
+  background-color: #f0f1f2;
+}
+
+.comment-name {
+  margin-bottom: 5px;
+}
+
+.comment-body {
+  color: rgba(34, 34, 34, 0.866);
+}
+
+.comment-email {
+  margin-top: 5px;
+}
+
+.comment-email:hover {
+  text-decoration: underline;
+  color: coral
+}

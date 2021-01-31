@@ -1,0 +1,24 @@
+.header {
+  background-color: white;
+  padding: 12px 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 12px;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  gap: 20px;
+}
+
+
+.nav-links a:hover {
+  text-decoration: underline;
+  text-decoration-color: black;
+}

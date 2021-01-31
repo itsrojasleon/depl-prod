@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #DAE0E6;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+main {
+  margin: 10px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
