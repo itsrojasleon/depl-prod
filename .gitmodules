@@ -1,0 +1,3 @@
+[submodule "gh-pages-depl"]
+	path = gh-pages-depl
+	url = https://github.com/rojasleon/gh-pages-depl
