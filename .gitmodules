@@ -1,3 +1,6 @@
 [submodule "gh-pages-depl"]
 	path = gh-pages-depl
 	url = https://github.com/rojasleon/gh-pages-depl
+[submodule "netlify-depl"]
+	path = netlify-depl
+	url = https://github.com/rojasleon/netlify-depl.git
