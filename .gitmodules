@@ -4,3 +4,6 @@
 [submodule "netlify-depl"]
 	path = netlify-depl
 	url = https://github.com/rojasleon/netlify-depl.git
+[submodule "vercel-depl"]
+	path = vercel-depl
+	url = https://github.com/rojasleon/vercel-depl.git
