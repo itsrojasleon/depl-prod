@@ -7,3 +7,6 @@
 [submodule "vercel-depl"]
 	path = vercel-depl
 	url = https://github.com/rojasleon/vercel-depl.git
+[submodule "depl-s3"]
+	path = depl-s3
+	url = https://github.com/rojasleon/depl-s3
