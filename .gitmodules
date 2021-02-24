@@ -10,3 +10,6 @@
 [submodule "depl-s3"]
 	path = depl-s3
 	url = https://github.com/rojasleon/depl-s3
+[submodule "depl-digital-ocean"]
+	path = depl-digital-ocean
+	url = https://github.com/rojasleon/depl-digital-ocean
